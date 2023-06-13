@@ -1,0 +1,10 @@
+* persistent-variables
+
+A lisp library for easily persisting variables.  Ideal for use in scripts where you don't want to hardcode the values, nor deal with configuration files.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/WarrenWilkinson/persistent-variables.git   |
+| commit  | 9ddd866  |
+| systems | persistent-variables |
+|---------+-------------------------------------------|
+
